@@ -1,0 +1,130 @@
+.page {
+	        border : 2px solid orange;
+	        background-color : #FA8072;
+	        width :100%;
+	        height :auto;
+	}
+	.ranga{
+	          text-align:center;
+	           }
+	@media screen and (min-width:650px){
+
+	.wrapper {
+	            display : grid;
+	            grid-template-columns : 1fr 1fr 1fr;
+	           
+	}
+	.one{
+	   background-color : skyblue;
+	   border : 1px solid green;
+	   margin : 20px;
+	   padding : 10px;
+	   border-radius : 10px;
+	}
+	.two {
+	     background-color : #7FFF00;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.three{
+	    background-color : #008B8B;
+	    border : 1px solid green;
+	    margin : 20px;
+	    padding : 10px;
+	    border-radius : 10px;
+	}
+	.four{
+	     background-color : gray;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.five{
+	     background-color : orange;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+
+
+	     border-radius : 10px;
+	}
+	.six{
+	     background-color :#556B2F ;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.seven {
+	     background-color :gray ;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.eight {
+	     background-color :gray ;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	}
+
+	.one{
+	   background-color : skyblue;
+	   border : 1px solid green;
+	   margin : 20px;
+	   padding : 10px;
+	   border-radius : 10px;
+	}
+	.two{
+	     background-color :#7FFF00;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.three{
+	    background-color : #008B8B;
+	    border : 1px solid green;
+	    margin : 20px;
+	    padding : 10px;
+	    border-radius : 10px;
+	}
+	.four{
+	     background-color : gray;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.five {
+	     background-color : orange;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;
+	}
+	.six{
+	     background-color :#556B2F ;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;}
+	.seven {
+	     background-color :green;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;}
+	.eight{
+	     background-color :lightyellow ;
+	     border : 1px solid green;
+	     margin : 20px;
+	     padding : 10px;
+	     border-radius : 10px;}
+	     
